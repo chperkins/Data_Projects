@@ -8,4 +8,4 @@ This file contains the main code for my current University of Chicago master's t
 
 # MNIST_project.ipynb
 
-This jupyter notebook downloads MNIST data and runs some statistical analysis. It explores running PCA on the images, spectral clustering, and logistic regression on principal components. I use the benchmark MNIST data as a tool to experiment with these statistical tools.
+This jupyter notebook downloads MNIST data and runs some statistical analysis. It explores running PCA on the images, spectral clustering, and logistic regression on principal components. I use the benchmark MNIST data in order to experiment with these statistical tools.
